@@ -20,6 +20,6 @@ This tool is made **only for educational purposes**.
 
 ## Installation
 
-```js
+```bash
 npm install
 ```
